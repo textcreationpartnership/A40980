@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Father Peter's apologies to the Pope for his miscarriages in England</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40980</idno>
+            <idno type="STC">Wing F545A</idno>
+            <idno type="STC">ESTC R17795</idno>
+            <idno type="EEBO-CITATION">12256424</idno>
+            <idno type="OCLC">ocm 12256424</idno>
+            <idno type="VID">57557</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40980)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57557)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 867:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Father Peter's apologies to the Pope for his miscarriages in England</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.D.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  England --  Controversial literature.</term>
+               <term>Great Britain --  History --  1660-1714 --  Pamphlets.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:57557:1"/>
+            <head>Father Peters's APOLOGY TO THE POPE FOR HIS <hi>Miſcarriages in England.</hi>
+            </head>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>SO Monſieur <hi>Petre,</hi> What News from the <hi>Engliſh</hi>-Court? How ſtand the Affairs of our <hi>Holy Mother</hi> there? What Progreſs in our Deſigns? Does our Intended Reformation thrive? What number of Converts? Is the Army new Modell'd, and all things ready for the main point? Come tell us, Mr. <hi>Petre,</hi> for I am big with Expectation.</p>
+            </sp>
+            <sp>
+               <speaker>Petre.</speaker>
+               <p>May it pleaſe your Holineſs we are all undone, I Vow.</p>
+            </sp>
+            <sp>
+               <speaker>Po.</speaker>
+               <p>Now, as I hope to be Sainted, I muſt tell you, you are an unmannerly blunt Fellow, to put me into ſuch a Fright of a ſuddain: That Rebellious Son of mine, at <hi>Paris,</hi> has ſo often diſorder'd me, with the Apprehenſion of his <hi>Dragoons,</hi> and <hi>Military Contributions,</hi> that every hard Word I hear, is as bad as a Fit of an <hi>Ague</hi> to me; and I had rather loſe my Eyes or my Ears, than receive a <hi>Memorial</hi> from <hi>France,</hi> it ſmells ſo horridly, I fancy, of Powder and Match: But now I am recover'd, prithee, What is the matter?</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Why, <hi>Sir,</hi> you muſt muſter up all your Courage to hear what I am going to relate, and truly, nothing but the ſatisfaction of having Eſcaped, could encou<g ref="char:EOLhyphen"/>rage me to make a Repetition of the Danger.</p>
+            </sp>
+            <sp>
+               <speaker>Po.</speaker>
+               <p>What Danger do you mean? I thought <hi>England</hi> was as ſafe a place as the <hi>Conclave</hi> here.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Ay, and ſo it was, till a parcel of ill-natur'd <hi>Dutch-Men</hi> came and ſpoil'd good Company, and made us give over Houſe-Keeping; they would, indeed, have provided a ſort of a ſcurvy Lodging for ſome of the Chief of us; but being very nice in the choice of my Appartments, I made ſhift to provide for my ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Po.</speaker>
+               <p>What, then I underſtand our laſt and great Pillar whereon our Intereſt in <hi>England</hi> leant is fallen, fallen, never to be recovered: And now, I'll warrant, you are come to make a lamentable Apology for the Defeat, though nothing but your own hot-headed Council ruin'd the Deſign.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>May it pleaſe your Holineſs, my Endeavors and Abilities to ſerve Your Holineſs and this Court, I humbly conceive, need not a Confirmation, and —</p>
+            </sp>
+            <pb n="2" facs="tcp:57557:2"/>
+            <sp>
+               <speaker>Po.</speaker>
+               <p>Yes, <hi>Sir,</hi> I muſt confeſs you have ſome Qualifications of a Man for our bu<g ref="char:EOLhyphen"/>ſineſs. But, <hi>Sir,</hi> if Impudence be the greateſt Virtue you can boaſt of, you may ſerve indeed for an <hi>Executioner,</hi> but never for a <hi>Privy Counſellor.</hi> I told you, I fear'd your hard Riding would coſt you a Fall.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Sir, with Submiſſion, all Circumſtances conſider'd, I could do no leſs, for what with the Fears on the one ſide, and Encouragements on the other, it had been Madneſs to have miſpent or loſt ſo much as one hour. Be pleaſed to conſi<g ref="char:EOLhyphen"/>der, the King was far gone in his Declenſion, and how impoſſible it ſeem'd to do any thing by fair means, with that ſcrupulous Generation.</p>
+            </sp>
+            <sp>
+               <speaker>Po.</speaker>
+               <p>Ay, <hi>Sir,</hi> but one would think a Man of Diſcretion ſhould, at leaſt, ſo manage his Projects, as that every Eye ſhould not be able to ſee their nakedneſs.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Your Holineſs has a piercing Judgment indeed: But I preſume you will not ſay, our Miſteries were liable to every eaſie Interpretation: Did not we keep up an Army, contrary to Law, with the bare pretence of the King's Martial Diſ<g ref="char:EOLhyphen"/>poſition, and that it tended no farther than to make an appearance of Grandeur? Did we not prepare the People, by our <hi>Jeſuits, Monks,</hi> &amp;c. to all Changes what<g ref="char:EOLhyphen"/>ſoever, by Preaching up the neceſſity of Obedience, even without Reſerve? And if we could but have brought our Two Friends of <hi>Holland</hi> to have encouraged the Taking off the <hi>Teſts,</hi> they would have ſav'd us abundance of Labour, and have been themſelves acceſſary to their Deſtruction: But the Devil ow'd us an everlaſting Chain, and I fear he has paid us home.</p>
+            </sp>
+            <sp>
+               <speaker>Po.</speaker>
+               <p>O dear, <hi>In nomine Patris &amp; Filii,</hi> &amp;c. I wonder, <hi>Sir,</hi> at your Rudeneſs to name the Devil in my Company: why, pray <hi>Sir,</hi> you ſpeak of him with as little concern, as you would of an Old Acquaintance: Pray, <hi>Sir,</hi> let us be as quiet as we can while you are here, and the Devil and you go together afterwards, if you love his Company ſo well. But, pray <hi>Sir,</hi> had not you a Politick Stroke in ano<g ref="char:EOLhyphen"/>ther Grand buſineſs of State too; you can gueſs what I mean.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Lord, <hi>Sir,</hi> that was my Maſter-piece, 'twas a Deſign well laid, and I do not doubt will come in Play again yet.</p>
+            </sp>
+            <sp>
+               <speaker>Po.</speaker>
+               <p>Oh! yes the Ground-work was good, the Foundation was laid to your hand, in a Preſident of the ſame nature, and yet you built, by your favour, but very aukardly upon it.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Nay, nay, queſtion that and take all: Pray, <hi>Sir,</hi> What can prove the Va<g ref="char:EOLhyphen"/>lidity of a Cauſe better than an anſwerable Effect.</p>
+            </sp>
+            <sp>
+               <speaker>Po.</speaker>
+               <p>Yes, yes, you are in the right of it thus far, let us Talk big at leaſt, now we are Looſers eſpecially: But between you and I, there were ſuch palpable Contra<g ref="char:EOLhyphen"/>dictions in your Reports of it, that an ordinary <hi>Naturaliſt,</hi> or indeed <hi>Arithmetitian</hi> might have reduc'd you to a Non-plus about it.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Why truly, <hi>Sir,</hi> we had ſo many Irons in the Fire at once, that we could not diſ-engage our ſelves clearly of any of them; and, according to the <hi>Engliſh</hi> Proverb, <hi>Between two Stools we let fall the Diſh.</hi> But the firſt opportunity your Holineſs ſhall be pleaſed to grant, I ſhall endeavor to make your Holineſs ſenſible, that moſt of our Deſigns have been both Prudently laid and managed; and, that nothing but an over-ruling Providence could have defeated or ruin'd them.</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="allowance">
+            <p>
+               <hi>Publiſhed with Allowance.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. D.</hi> 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
